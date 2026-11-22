@@ -24,11 +24,12 @@ out/
 dist/
 *.tsbuildinfo
 
-# OS metadata
+# OS & IDE metadata
 .DS_Store
 Thumbs.db
 *.swp
 *~
+.vscode/
 
 # Environment variables
 .env*.local
