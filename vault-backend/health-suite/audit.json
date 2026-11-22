@@ -1,0 +1,79 @@
+[
+  {
+    "id": "e2270cfd-8a6c-4825-859e-1f09419cb476",
+    "action": "AI analysis blocked",
+    "status": "blocked",
+    "detail": "Invalid passphrase for record Sample_Medical_Report.pdf.",
+    "timestamp": "2026-11-04T14:04:02.777Z"
+  },
+  {
+    "id": "21774310-2eca-471b-b667-66f7748122e0",
+    "action": "AI analysis blocked",
+    "status": "blocked",
+    "detail": "Invalid passphrase for record Sample_Medical_Report.pdf.",
+    "timestamp": "2026-11-04T14:04:00.576Z"
+  },
+  {
+    "id": "eed4049f-d2d0-47ff-8052-19402a1d28cc",
+    "action": "Encrypted record erased",
+    "status": "warning",
+    "detail": "Unit 2.pdf was permanently deleted.",
+    "timestamp": "2026-11-04T14:03:54.443Z"
+  },
+  {
+    "id": "7f7451f2-9be4-4ff2-b039-bd79b4dfe7fd",
+    "action": "Encrypted record erased",
+    "status": "warning",
+    "detail": "resume6.pdf was permanently deleted.",
+    "timestamp": "2026-11-04T14:03:52.043Z"
+  },
+  {
+    "id": "7ff87afd-286b-4d52-a1d9-d4c4772e3910",
+    "action": "Encrypted record erased",
+    "status": "warning",
+    "detail": "health-test.txt was permanently deleted.",
+    "timestamp": "2026-11-04T13:07:55.713Z"
+  },
+  {
+    "id": "07339e1d-e545-4d75-85de-9a9f555bf307",
+    "action": "AI analysis blocked",
+    "status": "blocked",
+    "detail": "Invalid passphrase for record Sample_Medical_Report.pdf.",
+    "timestamp": "2026-11-04T13:07:00.697Z"
+  },
+  {
+    "id": "4a64942b-4cba-4335-a012-fc7ae18fd0e2",
+    "action": "Record encrypted and deposited",
+    "status": "success",
+    "detail": "health-test.txt was encrypted with AES-256.",
+    "timestamp": "2026-11-04T13:06:53.323Z"
+  },
+  {
+    "id": "378db20b-02c1-4bcb-a8e6-bd6a184a6acc",
+    "action": "appointments entry created",
+    "status": "success",
+    "detail": "A local appointments entry was created.",
+    "timestamp": "2026-11-04T12:16:54.422Z"
+  },
+  {
+    "id": "8f56b830-6edf-4dd4-b55f-2e40d6c9fbb0",
+    "action": "Secure share created",
+    "status": "success",
+    "detail": "Time-limited share created for record ac75ba67-7d25-4579-bebe-acd370000daf.",
+    "timestamp": "2026-11-04T11:20:38.901Z"
+  },
+  {
+    "id": "9aa28ed3-3330-4a56-a2f5-570625f1ea72",
+    "action": "IoT reading ingested",
+    "status": "success",
+    "detail": "Demo wearable synced a wearable reading.",
+    "timestamp": "2026-11-04T11:19:45.993Z"
+  },
+  {
+    "id": "c0239b91-5168-4129-8a7c-c634477489b6",
+    "action": "Emergency profile updated",
+    "status": "success",
+    "detail": "Encrypted vault emergency data was updated.",
+    "timestamp": "2026-11-04T11:19:45.990Z"
+  }
+]

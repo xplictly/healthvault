@@ -1,0 +1,10 @@
+{
+  "name": "HealthVault",
+  "short_name": "HealthVault",
+  "description": "Private encrypted medical record vault",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08110f",
+  "theme_color": "#08110f",
+  "icons": []
+}

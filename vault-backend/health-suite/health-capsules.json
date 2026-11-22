@@ -1,0 +1,11 @@
+[
+  {
+    "id": "cf17a845-0a9a-4a9b-8f58-f6a7bb9f2883",
+    "format": "HEALTHVAULT-CAPSULE-1",
+    "recordIds": [],
+    "policyId": null,
+    "createdAt": "2026-11-07T07:06:46.957Z",
+    "expiresAt": "2026-11-08T07:06:46.957Z",
+    "packageHash": "9975428e40758df4ec536474105ad61ebe987f1d25ea0ae7967870e4623ab5f5"
+  }
+]

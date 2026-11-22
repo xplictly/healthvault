@@ -1,0 +1,13 @@
+[
+  {
+    "id": "5ab2e5f5-3664-43a6-89c0-28c5d917b3e2",
+    "source": "Demo wearable",
+    "heartRate": 72,
+    "systolic": 122,
+    "diastolic": 78,
+    "oxygen": 98,
+    "sleepHours": 7.4,
+    "steps": 6200,
+    "timestamp": "2026-11-04T11:19:45.993Z"
+  }
+]

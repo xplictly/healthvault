@@ -1,0 +1,17 @@
+[
+  {
+    "id": "e0be931e-709d-47cd-be97-48c8ab0b281f",
+    "deviceType": "digital-bp",
+    "source": "Certified-demo-device",
+    "value": {
+      "systolic": 124,
+      "diastolic": 82,
+      "pulse": 72
+    },
+    "unit": "mmHg",
+    "confidence": 0.82,
+    "validation": "valid",
+    "recordedAt": "2026-11-07T07:06:46.941Z",
+    "receivedAt": "2026-11-07T07:06:46.942Z"
+  }
+]

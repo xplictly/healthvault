@@ -1,0 +1,12 @@
+{
+  "id": "9c6fd912-8109-4293-8d37-77ed8247f596",
+  "format": "HEALTHVAULT-EMERGENCY-1",
+  "bloodType": "O+",
+  "allergies": [
+    "Penicillin"
+  ],
+  "medications": [],
+  "emergencyContact": "Demo Contact",
+  "warning": "Decision-support and emergency reference only. Verify all information directly.",
+  "createdAt": "2026-11-07T07:06:46.962Z"
+}

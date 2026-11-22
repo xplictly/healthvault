@@ -1,0 +1,41 @@
+{
+  "threshold": 3,
+  "total": 5,
+  "shares": [
+    {
+      "id": "2edce269-77f2-40d5-9752-8e7af6a3798c",
+      "index": 1,
+      "shareHex": "ae014263ff1509a5ffeba2c4ba",
+      "custodianLabel": "Custodian 1",
+      "createdAt": "2026-11-07T07:08:25.869Z"
+    },
+    {
+      "id": "5c6182a7-16f3-4a0c-be3e-730b0bcbe747",
+      "index": 2,
+      "shareHex": "d0efb80d615d737b95dc5be579",
+      "custodianLabel": "Custodian 2",
+      "createdAt": "2026-11-07T07:08:25.870Z"
+    },
+    {
+      "id": "d361ed63-687f-43b9-8c2e-2fb39fa02cf6",
+      "index": 3,
+      "shareHex": "2cabb921c80d28874773bc6c8c",
+      "custodianLabel": "Custodian 3",
+      "createdAt": "2026-11-07T07:08:25.870Z"
+    },
+    {
+      "id": "d4ad7950-e0d3-4195-a5d2-a1fb8428e715",
+      "index": 4,
+      "shareHex": "d28267a3dba37a345a3678b412",
+      "custodianLabel": "Custodian 4",
+      "createdAt": "2026-11-07T07:08:25.870Z"
+    },
+    {
+      "id": "1b33a9ed-c865-4977-8ea2-a6c34d3d79fb",
+      "index": 5,
+      "shareHex": "2ec6668f72f321c888999f3de7",
+      "custodianLabel": "Custodian 5",
+      "createdAt": "2026-11-07T07:08:25.870Z"
+    }
+  ]
+}

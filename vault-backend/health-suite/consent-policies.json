@@ -1,0 +1,14 @@
+[
+  {
+    "id": "9be42e3b-186d-42c0-a106-f610c4f2f92c",
+    "recipient": "Demo Clinic",
+    "purpose": "Clinical review demo",
+    "recordIds": [],
+    "actions": [
+      "preview"
+    ],
+    "expiresAt": "2026-11-08T07:06:46.950Z",
+    "revokedAt": null,
+    "createdAt": "2026-11-07T07:06:46.950Z"
+  }
+]
